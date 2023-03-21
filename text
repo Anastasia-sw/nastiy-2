@@ -1,0 +1,13 @@
+"""
+w - write
+r - read
+a - append
+x - create
+"""
+
+
+
+
+file = open("text.txt", "a")
+
+file.write("Hello to file")
